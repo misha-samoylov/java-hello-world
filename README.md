@@ -1,4 +1,10 @@
-# Compile files
+# java-hello-world
+
+Simple project to learn java.
+
+## Compile file
+
+Run in terminal:
 
 ```shell
 # javac HelloWorld.java
@@ -6,10 +12,16 @@
 
 That is create compiled to byte code file `HelloWorld.class`.
 
-# Run file
+## Run file
+
+Run in terminal compiled file `HelloWorld.class`:
 
 ```shell
 # java HelloWorld
 ```
 
-That is execute file `HelloWorld.class`.
+Command must show result in terminal:
+
+```shell
+Hello, World!
+```
